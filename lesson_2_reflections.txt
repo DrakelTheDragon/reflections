@@ -18,5 +18,6 @@ If you want to try an experimental build with changes that might break your prog
 
 It makes it easier to see where branches split at.
 
+6) What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
-
+It combines the commits of both branches into one branch. It shows a clear visual on how the branches work. 
