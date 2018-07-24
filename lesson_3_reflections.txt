@@ -8,7 +8,7 @@ Manually pulling changes allows me to determine when code is brought down. This 
 
 3) Describe the differences between forks, clones, and branches.  When would you use one instead of another?
 
-    Fill in your answer here
+A clone creates a clone - a copy of a repo. A branch takes a working directory and adds a new line of commits which runs in tandem with the master branch in the same repo. A fork is like a clone only it is on the github server: cloning one repo on github to another repo on github. You use a fork when you like a repo on github and want to tinker with it and/or make it your own - this would be equivalent to cloning someone else's repo to your computer then pushing that repo up to github as your own remote repo.
 
 4) What is the benefit of having a copy of the last known state of the remote stored locally?
 
